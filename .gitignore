@@ -1,0 +1,6 @@
+.ide
+.pytest_cashe
+.venv
+.vscode
+.idea
+__pycache__
